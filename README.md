@@ -45,13 +45,14 @@ HTML/CSS, JavaScript, React, Java, Spring Boot, 그리고 ChatGPT+RPA까지 —
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 
 
-### 🚀 최근 프로젝트
+<!-- ### 🚀 최근 프로젝트
 | 프로젝트명 | 설명 | 기술스택 | 링크 |
 |-------------|------|-----------|------|
-<!-- | 🛍️ **Mall API** | Spring Boot 기반 쇼핑몰 백엔드 | Java, Spring Boot, Oracle | [🔗 바로가기](https://github.com/yspace/mallapi) |
+| 🛍️ **Mall API** | Spring Boot 기반 쇼핑몰 백엔드 | Java, Spring Boot, Oracle | [🔗 바로가기](https://github.com/yspace/mallapi) |
 | 🍎 **Apple Mobile Clone** | 반응형 모바일 웹 클론코딩 | HTML, CSS, JS | [🔗 바로가기](https://github.com/yspace/apple-mobile) |
 | 💬 **ChatGPT RPA Bot** | GPT 연동 자동화 시스템 | Python, RPA, OpenAI API | [🔗 바로가기](https://github.com/yspace/chatbot-rpa) | -->
-
+🚀 프로젝트 모아보기
+| 💬 **ChatGPT RPA Bot** | GPT 연동 자동화 시스템 | Python, RPA, OpenAI API | [🔗 바로가기](https://github.com/yspace/chatbot-rpa) |
 ---
 
 ### 🌱 현재 배우는 중이에요
